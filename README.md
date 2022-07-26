@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MikeZone121/amazon-clone">
-    <img src="src/img/brand/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/img/amazon.png" alt="Logo" width="200" height="70">
   </a>
 
   <h3 align="center">Amazon</h3>
